@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Aegis Web App Firewall](https://github.com/maharshijd/Aegis-WAF)
 
-- 👨‍💻 All of my projects are available at [https://github.com/maharshijd](https://github.com/maharshijd)
+- 👨‍💻 All of my projects are available at [https://github.com/maharshijd](https://github.com/maharshijd?tab=repositories)
 
 - 📫 How to reach me **maharshi1731@gmail.com**
 
