@@ -91,13 +91,13 @@ learning techniques, showcasing practical application of computer vision concept
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-## 📊 GitHub Stats & Activity
+## 📊 Stats & Activity
 
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=maharshijd&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
-![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/maharshi_j?theme=gradient)
+![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/maharshi_jd?theme=gradient)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maharshijd&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
