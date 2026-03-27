@@ -1,18 +1,123 @@
-<h1 align="center">Hi 👋, I'm Maharshi Dindoliwala</h1>
-<h3 align="center">Cybersecurity | C/C++ | Algorithms | Systems</h3>
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGKtFkH2BRbcw/profile-displaybackgroundimage-shrink_350_1400/B56Zv1u7HJIcAY-/0/1769354277964?e=1776297600&v=beta&t=lPsVPku41upqFHvtv60iMGxlqq7fX7pNz-vrAuG6WOU" alt="Profile Banner" width="100%" />
+</div>
 
-- 🔭 I’m currently working on [Aegis Web App Firewall](https://github.com/maharshijd/Aegis-WAF)
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [https://github.com/maharshijd](https://github.com/maharshijd?tab=repositories)
+# Hi 👋, I'm Maharshi Dindoliwala
 
-- 📫 How to reach me **maharshi1731@gmail.com**
+### Cybersecurity | C/C++ | Algorithms | Systems
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/maharshi-jd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maharshi-jd" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/maharshi_jd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="maharshi1731" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/maharshi_jd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maharshijd" height="30" width="40" /></a>
-</p>
+<img src="https://github.com/maharshijd.png" alt="Maharshi Dindoliwala" width="150" height="150" style="border-radius: 50%;" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+</div>
+
+## 🚀 About Me
+
+Cybersecurity enthusiast with a strong foundation in **C, C++ and Data Structures & Algorithms**, along with growing hands-on experience in **ethical hacking and penetration testing**. Certified **CWSE** and **CAPT**, and actively building practical projects like **Aegis-WAF** and **Sentinel** to strengthen real-world security and development skills. Continuously learning and improving in **secure coding, system design, and problem solving**.
+
+
+## 💼 Current Work
+
+<div align="left">
+
+- 🔭 I'm currently working on [**Aegis Web App Firewall**](https://github.com/maharshijd/Aegis-WAF)
+
+</div>
+
+## 🚀 Projects
+
+| Project | Description | Links |
+|---|---|---|
+| Aegis Web App Firewall | Aegis-WAF – A modular Web Application Firewall built with Python and Docker that detects and blocks common web attacks such as SQL Injection, XSS, and malicious payloads using rule-based filtering and real-time request analysis, designed for secure, scalable deployment in modern web environments. | [GitHub](https://github.com/maharshijd/Aegis-WAF) |
+| Optical Character Recognition | Developed an OCR system in Python to extract text from images using image processing and machine
+learning techniques, showcasing practical application of computer vision concepts.
+ | [GitHub](https://github.com/maharshijd/Optical-Character-Recognition) |
+| Snake game console based | A console-based implementation of the classic Snake Game, built from scratch in C using the Windows Console API. Features include real-time movement, scoring, and dynamic difficulty. Perfect for learning low-level programming, game logic, and real-time input handling. | [GitHub](https://github.com/maharshijd/classic-snake-c) |
+
+### Aegis Web App Firewall
+
+**Technologies Used:** Python, Docker
+
+### Optical Character Recognition
+
+**Technologies Used:** Python, OpenCV, Pillow, Tesseract
+
+### Snake game console based
+
+**Technologies Used:** C Programming Language
+
+## 🎓 Education
+
+| Institution | Degree | Duration |
+|---|---|---|
+| Symbiosis Institute of Technology | B.Tech | 2024-08 -  |
+
+### B.Tech in Computer Science and Engineering
+*Symbiosis Institute of Technology*
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maharshijd)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maharshi-jd)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maharshi_jd)&nbsp;&nbsp;&nbsp;[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/maharshi_jd)&nbsp;&nbsp;&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/maharshi_jd)
+
+</div>
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;&nbsp;![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 💻 Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### 💻 Mobile App Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;&nbsp;&nbsp;![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 💻 Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;&nbsp;![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;&nbsp;&nbsp;![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 💻 DevOps
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 💻 Software
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 💻 Other
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=maharshijd&label=Profile%20Visitors&color=blueviolet&style=flat-square)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maharshijd&layout=compact&theme=tokyonight&langs_count=10)
+
+![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/maharshi_j?theme=gradient)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maharshijd&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maharshijd&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+**Thank you for visiting my profile! 😊**
+
+![Profile Views](https://komarev.com/ghpvc/?username=maharshijd&color=brightgreen&style=flat-square&label=Profile+Views)
+
+</div>
