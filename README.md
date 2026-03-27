@@ -7,9 +7,6 @@
 # Hi 👋, I'm Maharshi Dindoliwala
 
 ### Cybersecurity | C/C++ | Algorithms | Systems
-
-<img src="https://github.com/maharshijd.png" alt="Maharshi Dindoliwala" width="150" height="150" style="border-radius: 50%;" />
-
 </div>
 
 ## 🚀 About Me
@@ -100,13 +97,10 @@ learning techniques, showcasing practical application of computer vision concept
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=maharshijd&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maharshijd&layout=compact&theme=tokyonight&langs_count=10)
-
 ![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/maharshi_j?theme=gradient)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maharshijd&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maharshijd&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
 </div>
 
