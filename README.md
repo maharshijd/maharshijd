@@ -27,9 +27,7 @@ Cybersecurity enthusiast with a strong foundation in **C, C++ and Data Structure
 | Project | Description | Links |
 |---|---|---|
 | Aegis Web App Firewall | Aegis-WAF – A modular Web Application Firewall built with Python and Docker that detects and blocks common web attacks such as SQL Injection, XSS, and malicious payloads using rule-based filtering and real-time request analysis, designed for secure, scalable deployment in modern web environments. | [GitHub](https://github.com/maharshijd/Aegis-WAF) |
-| Optical Character Recognition | Developed an OCR system in Python to extract text from images using image processing and machine
-learning techniques, showcasing practical application of computer vision concepts.
- | [GitHub](https://github.com/maharshijd/Optical-Character-Recognition) |
+| Optical Character Recognition | Developed an OCR system in Python to extract text from images using image processing and machine learning techniques, showcasing practical application of computer vision concepts. | [GitHub](https://github.com/maharshijd/Optical-Character-Recognition) |
 | Snake game console based | A console-based implementation of the classic Snake Game, built from scratch in C using the Windows Console API. Features include real-time movement, scoring, and dynamic difficulty. Perfect for learning low-level programming, game logic, and real-time input handling. | [GitHub](https://github.com/maharshijd/classic-snake-c) |
 
 ### Aegis Web App Firewall
