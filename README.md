@@ -62,6 +62,7 @@ Cybersecurity enthusiast with a strong foundation in **C, C++ and Data Structure
 </div>
 
 ## 🛠️ Skills & Technologies
+<div align="center">
 
 ### 💻 Programming Languages
 
@@ -90,7 +91,7 @@ Cybersecurity enthusiast with a strong foundation in **C, C++ and Data Structure
 ### 💻 Other
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
+</div>
 ## 📊 Stats & Activity
 
 <div align="center">
