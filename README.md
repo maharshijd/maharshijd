@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQGKtFkH2BRbcw/profile-displaybackgroundimage-shrink_350_1400/B56Zv1u7HJIcAY-/0/1769354277964?e=1776297600&v=beta&t=lPsVPku41upqFHvtv60iMGxlqq7fX7pNz-vrAuG6WOU" alt="Profile Banner" width="100%" />
-</div>
+<p align="center">
+  <img src="banner.svg" alt="Banner" width="100%">
+</p>
 
 <div align="center">
 
