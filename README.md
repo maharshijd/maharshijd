@@ -97,9 +97,15 @@ Cybersecurity enthusiast with a strong foundation in **C, C++ and Data Structure
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=maharshijd&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
-![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/maharshi_jd?theme=gradient)
+<p align="center">
+  <img src="https://www.readmecodegen.com/api/leetcode-stats/maharshi_jd?theme=gradient"
+       width="420"
+       style="display:inline-block; vertical-align:top;" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maharshijd&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maharshijd&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+       width="420"
+       style="display:inline-block; vertical-align:top;" />
+</p>
 
 
 </div>
@@ -108,7 +114,7 @@ Cybersecurity enthusiast with a strong foundation in **C, C++ and Data Structure
 
 <div align="center">
 
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### "The quieter you become, the more you are able to hear." – Kali Linux
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maharshijd&color=brightgreen&style=flat-square&label=Profile+Views)
 
