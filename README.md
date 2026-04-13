@@ -20,7 +20,7 @@ Cybersecurity enthusiast with a strong foundation in **C, C++ and Data Structure
 
 <div align="left">
 
-- 🔭 I'm currently working on [**Aegis Web App Firewall**](https://github.com/maharshijd/Aegis-WAF)
+- 🔭 I'm currently working on [*Chrono: Game Time Control**](https://github.com/maharshijd/Chrono-Game-Time-Control)
 
 </div>
 
