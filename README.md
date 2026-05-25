@@ -99,7 +99,7 @@ Cybersecurity enthusiast with a strong foundation in **C, C++ and Data Structure
 ![Visitor Count](https://komarev.com/ghpvc/?username=maharshijd&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
 <p align="center">
-  <img src="https://www.readmecodegen.com/api/leetcode-stats/maharshi_jd?theme=gradient"
+  <img src="https://www.readmecodegen.com/api/leetcode-stats/maharshijd?theme=gradient"
        width="420"
        style="display:inline-block; vertical-align:top;" />
 
