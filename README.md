@@ -24,9 +24,16 @@ I enjoy building practical projects that combine **software engineering, cyberse
 
 | Project | Description | Links |
 |---|---|---|
+| **PhantomText** | A lightweight text utility for encoding and recovering messages using an access key, with a Streamlit-based interface and randomized cover text. | [GitHub](https://github.com/maharshijd/Phantom-Text) |
 | **Aegis Web App Firewall** | A modular Web Application Firewall built with Python and Docker that detects and blocks common web attacks such as SQL Injection, XSS, and malicious payloads using rule-based filtering and real-time request analysis. | [GitHub](https://github.com/maharshijd/Aegis-WAF) |
 | **Optical Character Recognition** | An OCR system developed in Python to extract text from images using image processing and machine learning techniques, demonstrating practical computer vision concepts. | [GitHub](https://github.com/maharshijd/Optical-Character-Recognition) |
-| **Classic Snake — C** | A console-based implementation of the classic Snake Game built from scratch in C using the Windows Console API, featuring real-time movement, scoring, and dynamic difficulty. | [GitHub](https://github.com/maharshijd/classic-snake-c) |
+
+### PhantomText
+
+**Technologies Used:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### Aegis Web App Firewall
 
@@ -43,13 +50,6 @@ I enjoy building practical projects that combine **software engineering, cyberse
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge)
 ![Tesseract](https://img.shields.io/badge/Tesseract-444444?style=for-the-badge)
-
-### Snake Game — Console Based
-
-**Technologies Used:**
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Education
 
